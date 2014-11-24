@@ -787,6 +787,9 @@
     <ClInclude Include="SourceFiles\app.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="SourceFiles\history.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
     <ClInclude Include="SourceFiles\gui\emoji_config.h">
       <Filter>gui</Filter>
     </ClInclude>
